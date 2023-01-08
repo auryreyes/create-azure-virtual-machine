@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/qN6wRY9.png"/>
 </p>
 
 <h1>Creating an Microsoft Azure Account Subscription and Launching a Virtual Machine</h1>
@@ -21,31 +21,70 @@ Microsoft Azure is a cloud computing platform that offers a wide range of produc
 - Create a Virtual Machine
 - Connecting Virtual Machine to Microsoft Remote Desktop
 
-<h2>Installation Steps</h2>
-! ATTENTION !
+<h3>Step 1: Create Azure Account</h3>
+You can open an Azure account with $200 in free credit for 30 days.
 
-Before you begin, make sure you are using a virtual machine in Azure. If you don't know how to create an Azure account or a virtual machine in Azure, please refer to my tutorial [here]
+<br>
+<br>
 
-<h3>Install / Enable IIS (Internet Information Services)</h3>
+Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2JqOyrg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To make an account, simply follow the instructions on the website. It will be necessary to use a credit card, but you won't be charged until the $200 credit expires or the account has been open for a month. Congratulations! You are now a Tenant of Azure.
 </p>
+<h3>Step 2: Azure Portal & Resource Group</h3>
+Let's discuss how to use the Azure portal now that the account has been set up. You can manage your subscriptions and locate all the items and resources on the platform. 
+
+<br>
+<br>
+
+We will now launch a Windows 10 Virtual Machine but in order to do so, a Resource Group must be created. A Resource Group stores all the resources inside of Azure.
+
+
+Create Resource Group
+- Go to portal [here](https://portal.azure.com/#home).
+- Click “Create Resource Group”
+- Name Resource Group as “VM-LAB-01”
+- Click “Review + Create” -> “Create”
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0yi5xDM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/xgKEydL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<br />
+<p>
+<img src="https://i.imgur.com/Vygwvfx.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/gCl5IgV.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+
+<h3>Step 3: Create a Virtual Machine</h3>
+Go to the portal [here](https://portal.azure.com/#home).
+
+<br>
+<br>
+
+Create Virtual Machine
+- Click “Virtual Machine”
+- Click “Create” -> “Azure virtual machine”
+- Select Resource group “VM-LAB-01”
+- Region: (US) East US
+- Virtual machine name: "VM1"
+- Image: Windows 10 Pro
+- Size: Standard_E2s_v3 - 2 vcpus, 16 GiB memory
+- Username: labuser
+- Create Password
+- Check “Licensing” box
+- Click “Review + Create” -> “Create”
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lS7Vh9E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
