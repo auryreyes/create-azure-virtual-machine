@@ -30,7 +30,7 @@ You can open an Azure account with $200 in free credit for 30 days.
 Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
 
 <p>
-<img src="https://i.imgur.com/2JqOyrg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2JqOyrg.png"/>
 </p>
 <p>
 To make an account, simply follow the instructions on the website. It will be necessary to use a credit card, but you won't be charged until the $200 credit expires or the account has been open for a month. Congratulations! You are now a Tenant of Azure.
@@ -87,6 +87,21 @@ Create Virtual Machine
 <img src="https://i.imgur.com/lS7Vh9E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/Y7yqff1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/1XBIUVs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/LB4tfN5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/fD4a6i5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/qkWawip.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/KNBKQh7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
