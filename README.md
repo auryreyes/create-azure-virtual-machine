@@ -83,6 +83,8 @@ Create Virtual Machine
 - Check “Licensing” box
 - Click “Review + Create” -> “Create”
 
+Be sure to remember your username and password. Your virtual machine will show up in your resource group once your deployment is completed.
+
 <p>
 <img src="https://i.imgur.com/lS7Vh9E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -104,4 +106,69 @@ Create Virtual Machine
 <p>
 <img src="https://i.imgur.com/KNBKQh7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<br />
+
+<h3>Step 4: Connecting to Virtual Machine</h3>
+The virtual machine's public IP address is initially required in order to establish a connection.
+
+<br>
+<br>
+
+Locate Public IP Address
+- Go to “Virtual Machine”
+- Click “VM-LAB-01”
+- Copy the Public IP Address
+
+<p>
+<img src="https://i.imgur.com/7tC8pZu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/o7SAMks.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/NKVNiCL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+Connecting to Virtual Machine
+- Go to start menu and type in “Remote Desktop Connection” and open the application
+- Paste the Public IP Address and then select “Connect”
+- Login with previous Username and Password created in Azure’s Virtual Machine portal
+- Click “OK” and then select “Yes”
+
+<p>
+<img src="https://i.imgur.com/cVf1krh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/CY21pFV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/wSJ1304.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/CBEnIbO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/J1o7clj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+Congratulations! Your first Virtual Machine on Azure has been created.
+
+<h3>!ATTENTION!</h3>
+
+
+Because the majority of Azure services are pay-as-you-go, be sure to remove ALL resource groups and virtual machines if you want to keep your free $200 credits.
+
+Delete Resource Groups and Virtual Machines
+- Go to “Resource groups”
+- Click “VM-LAB-01” -> “Delete resource group”
+- Type the resource group name then select “Delete”
+- Repeat steps for all resources
+
+<p>
+<img src="https://i.imgur.com/6C6haJL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/tw5xULI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/GSAxtUh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
