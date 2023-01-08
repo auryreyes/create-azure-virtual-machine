@@ -65,12 +65,9 @@ Create Resource Group
 </p>
 
 <h3>Step 3: Create a Virtual Machine</h3>
-Go to the portal [here](https://portal.azure.com/#home).
-
-<br>
-<br>
 
 Create Virtual Machine
+- Go to portal
 - Click “Virtual Machine”
 - Click “Create” -> “Azure virtual machine”
 - Select Resource group “VM-LAB-01”
