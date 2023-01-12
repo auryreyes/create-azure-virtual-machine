@@ -30,7 +30,7 @@ You can open an Azure account with $200 in free credit for 30 days.
 Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
 
 <p>
-<img src="https://i.imgur.com/2JqOyrg.png"/>
+<img src="https://i.imgur.com/heVjJVa.png"/>
 </p>
 <p>
 To make an account, simply follow the instructions on the website. It will be necessary to use a credit card, but you won't be charged until the $200 credit expires or the account has been open for a month. Congratulations! You are now a Tenant of Azure.
@@ -52,13 +52,13 @@ Create Resource Group
 <br />
 
 <p>
-<img src="https://i.imgur.com/0yi5xDM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vIA8iMK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://i.imgur.com/xgKEydL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/e8kioSd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://i.imgur.com/Vygwvfx.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xuIxKCB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <img src="https://i.imgur.com/gCl5IgV.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
