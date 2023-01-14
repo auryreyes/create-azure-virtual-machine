@@ -68,7 +68,7 @@ Create Resource Group
 
 Create Virtual Machine
 - Go to [portal](https://portal.azure.com/#home)
-- Click “Virtual Machine”
+- Click “Virtual Machines”
 - Create -> Azure virtual machine
 - Select Resource group: VM-LAB-01
 - Region: (US) East US
@@ -155,8 +155,8 @@ Congratulations! Your first Virtual Machine on Azure has been created.
 Because the majority of Azure services are pay-as-you-go, be sure to remove ALL resource groups and virtual machines if you want to keep your free $200 credits.
 
 Delete Resource Groups and Virtual Machines
-- Go to “Resource groups”
-- Click “VM-LAB-01” -> “Delete resource group”
+- Go to Resource groups
+- Click VM-LAB-01 -> Delete resource group
 - Type the resource group name then select “Delete”
 - Repeat steps for all resources
 
