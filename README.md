@@ -48,7 +48,7 @@ Create Resource Group
 - Go to [portal](https://portal.azure.com/#home).
 - Click “Create Resource Group”
 - Name Resource Group as “VM-LAB-01”
-- Click “Review + Create” -> “Create”
+- Review + Create -> Create
 <br />
 
 <p>
