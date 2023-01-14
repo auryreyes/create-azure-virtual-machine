@@ -45,7 +45,7 @@ We will now launch a Windows 10 Virtual Machine but in order to do so, a Resourc
 
 
 Create Resource Group
-- Go to portal [here](https://portal.azure.com/#home).
+- Go to [portal](https://portal.azure.com/#home).
 - Click “Create Resource Group”
 - Name Resource Group as “VM-LAB-01”
 - Click “Review + Create” -> “Create”
@@ -67,7 +67,7 @@ Create Resource Group
 <h3>Step 3: Create a Virtual Machine</h3>
 
 Create Virtual Machine
-- Go to portal
+- Go to [portal](https://portal.azure.com/#home)
 - Click “Virtual Machine”
 - Create -> Azure virtual machine
 - Select Resource group: VM-LAB-01
