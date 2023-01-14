@@ -69,16 +69,16 @@ Create Resource Group
 Create Virtual Machine
 - Go to portal
 - Click “Virtual Machine”
-- Click “Create” -> “Azure virtual machine”
-- Select Resource group “VM-LAB-01”
+- Create -> Azure virtual machine
+- Select Resource group: VM-LAB-01
 - Region: (US) East US
-- Virtual machine name: "VM1"
+- Virtual machine name: VM1
 - Image: Windows 10 Pro
 - Size: Standard_E2s_v3 - 2 vcpus, 16 GiB memory
 - Username: labuser
 - Create Password
-- Check “Licensing” box
-- Click “Review + Create” -> “Create”
+- Check Licensing box
+- Review + Create -> Create
 
 Be sure to remember your username and password. Your virtual machine will show up in your resource group once your deployment is completed.
 
