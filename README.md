@@ -111,7 +111,7 @@ The virtual machine's public IP address is initially required in order to establ
 <br>
 
 Locate Public IP Address
-- Go to “Virtual Machine”
+- Go to Virtual Machines
 - Click “VM-LAB-01”
 - Copy the Public IP Address
 
