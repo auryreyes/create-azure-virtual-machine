@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/qN6wRY9.png" height="80%" width="80%" alt="Banner"/>
+<img src="https://i.imgur.com/qN6wRY9.png" height="50%" width="50%" alt="Banner"/>
 </p>
 
 <h1>Creating an Azure Account and Launching a Virtual Machine</h1>
