@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/qN6wRY9.png"/>
 </p>
 
-<h1>Create Azure Account and Launch a Virtual Machine</h1>
+<h1>Creating an Azure Account and Launching a Virtual Machine</h1>
 Microsoft Azure is a cloud computing platform that offers a wide range of products and services. In this tutorial, we’ll register for a Microsoft Azure Subscription Account, use the portal and launch a Virtual Machine (VM).<br />
 
 <h2>Environments and Technologies Used</h2>
