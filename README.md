@@ -7,7 +7,7 @@ Microsoft Azure is a cloud computing platform that offers a wide range of produc
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure
+- Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop Connection
 
 <h2>Operating Systems Used </h2>
